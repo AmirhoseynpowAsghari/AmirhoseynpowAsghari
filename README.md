@@ -21,9 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseynpowAsghari&theme=gotham&layout=compact)](https://github.com/AmirhoseynpowAsghari/AmirhoseynpowAsghari)
 
-<br>
 
-> “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
-> - Antoine de Saint-Exupery
-
-<br>
