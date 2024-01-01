@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+  
+</style>
   
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
