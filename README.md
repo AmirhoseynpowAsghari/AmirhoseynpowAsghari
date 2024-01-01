@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-  
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-
-<body>
-  <div class="container">
-    <div id="qubit" class="qubit">
-      <div class="wave"></div>
-    </div>
-  </div>
-
-  
-</body>
-</html>
+<div class="animation" style="fade-in 2s ease-in-out">
+  This text will fade in!
+</div>
