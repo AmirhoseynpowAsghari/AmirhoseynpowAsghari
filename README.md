@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Quantum Computation Animation</title>
+  
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -11,6 +11,6 @@
     </div>
   </div>
 
-  <script src="script.js"></script>
+  
 </body>
 </html>
