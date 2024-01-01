@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  
-</style>
+
   
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+<style>
+  
+</style>
 <body>
   <div class="container">
     <div id="qubit" class="qubit">
