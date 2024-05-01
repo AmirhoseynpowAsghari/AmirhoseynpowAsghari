@@ -23,12 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseynpowAsghari&theme=gotham&layout=compact)](https://github.com/AmirhoseynpowAsghari/AmirhoseynpowAsghari)
 <br><br>
   ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirhoseynpowAsghari&show_icons=true&theme=tokyonight) 
-
-curl https://api.openai.com/v1/chat/completions \
- -H "Authorization: Bearer sk-proj-MXDJgPIYvlabblPOxzc1T3BlbkFJxoQXbmc3wX2zDKR0Pvz4" \
- -H "Content-Type: application/json" \
- -d '{
- "model": "gpt-3.5-turbo",
- "messages": [{"role": "user", "content": "What is a banana?"}] 
- }'
-
